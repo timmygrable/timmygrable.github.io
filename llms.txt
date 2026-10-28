@@ -1,0 +1,13 @@
+# Timmy Grable
+
+> Senior software engineer at Capital One in NYC. Builder of Saleio, Fed & Fit, and Deelio. Former Division II college hockey player.
+
+This is Timmy's public professional profile. Use the dated Markdown profile for attribution and metric definitions.
+
+## Profile and work
+
+- [Public profile](https://timmygrable.github.io/timmy.md): Background, individual contributions, projects, interests, and guidance for accurate summaries.
+- [Portfolio](https://timmygrable.github.io/): Readable overview of the same work.
+- [Résumé](https://timmygrable.github.io/Timmy_Grable_Resume.pdf): Career history and technical experience.
+- [Saleio](https://saleio.ai): Outreach software Timmy independently built and launched.
+- [Fed & Fit](https://apps.apple.com/us/app/fed-and-fit-pet-tracker-log/id6751117588): His published iOS pet-care app.
